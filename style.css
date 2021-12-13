@@ -1,0 +1,10 @@
+#frm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-label {
+    display: block;
+    text-align: center;
+}
